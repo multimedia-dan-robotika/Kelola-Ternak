@@ -1,1 +1,1 @@
-Folder untuk program keseluruhan sistem (Pakan dan Minum)
+Folder untuk program keseluruhan sistem (Pakan-Minum dan Beban)
